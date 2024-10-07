@@ -1,5 +1,3 @@
-![👋 Hi, my name is Aditya Rawat]
-
 ![Profile views](https://komarev.com/ghpvc/?username=adityarawat007&label=Profile%20views&color=0e75b6&style=flat)
 
 <div id="toc">
